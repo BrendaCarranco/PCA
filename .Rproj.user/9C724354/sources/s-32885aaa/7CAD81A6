@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1592975569418.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7CAD81A6",
+    "lastKnownWriteTime" : 8319104482074261097,
+    "last_content_update" : 1592975569418,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "3AEC1DB9",
+        "caption" : "Karolinska_14trait_judgmentswithlabels",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Karolinska_14trait_judgmentswithlabels&cache_key=3AEC1DB9",
+        "displayedObservations" : 66,
+        "environment" : "",
+        "expression" : "Karolinska_14trait_judgmentswithlabels",
+        "object" : "Karolinska_14trait_judgmentswithlabels",
+        "preview" : 0,
+        "totalObservations" : 66,
+        "variables" : 17
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

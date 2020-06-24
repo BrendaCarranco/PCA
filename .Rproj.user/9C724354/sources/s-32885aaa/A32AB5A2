@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1592974861155.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A32AB5A2",
+    "lastKnownWriteTime" : 1592975339,
+    "last_content_update" : 1592975339341,
+    "path" : "/cloud/project/alfa.R",
+    "project_path" : "alfa.R",
+    "properties" : {
+        "cursorPosition" : "5,39",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
